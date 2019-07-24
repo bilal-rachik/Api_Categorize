@@ -9,7 +9,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline 
 from sklearn.pipeline import FeatureUnion
 from sklearn.ensemble import RandomForestClassifier
-
+nltk.download("all")
 def typecolumns(df):
     df.debit[df.debit==""]=np.NaN
     df.credit[df.credit==""]=np.NaN

@@ -8,7 +8,7 @@ import flask
 import mlflow.sklearn
 
 app = Flask(__name__)
-nltk.download("all")
+
 
 @app.route('/')
 def hello_world():
