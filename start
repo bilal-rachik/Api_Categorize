@@ -1,5 +1,12 @@
 ssh -i ~/.ssh/id_rsa centos@52.47.151.30
 
+# create image
+docker build -t api_image
+docker run -p 80:80 api_image
+
+#d
+docker ps
+
 #Local
 http://127.0.0.1:6060/api/categorize
 
