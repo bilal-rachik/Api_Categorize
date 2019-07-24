@@ -12,4 +12,4 @@ RUN echo "source activate py36" > ~/.bashrc
 ENV PATH /opt/conda/envs/py36/bin:$PATH
 # Bundle app 
 EXPOSE  80
-CMD ["python", "prediction.py"]
+CMD ["python", "api_predict.py"]

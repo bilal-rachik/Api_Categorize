@@ -1,1 +1,9 @@
 ssh -i ~/.ssh/id_rsa centos@52.47.151.30
+
+#Local
+http://127.0.0.1:6060/api/categorize
+
+#
+
+
+
