@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bilal/tmp/dev/Api_Categorize/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/artifacts
+end_time: 1563994906716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 53d1f1d273fa4187830c3cde361a2e7f
+run_uuid: 53d1f1d273fa4187830c3cde361a2e7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1563994439965
+status: 3
+tags: []
+user_id: bilal

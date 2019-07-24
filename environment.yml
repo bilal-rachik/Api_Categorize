@@ -1,0 +1,13 @@
+name: py36
+channels:
+  - defaults
+  - anaconda
+dependencies:
+  - python==3.6
+  - flask
+  - pandas
+  - scikit-learn
+  - pip:
+      - mlflow
+
+

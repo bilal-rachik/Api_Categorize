@@ -1,0 +1,1076 @@
+[
+  {
+    "date_transaction": "2018-12-28",
+    "lib1": "LE FIVE VILLETT AUBERVILLIER",
+    "debit": 70,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-02",
+    "lib1": "VIR MAAF ASSURANCES SA 0309201805911281 VIRT 10 MAAF AS REMB192367366",
+    "debit": "",
+    "credit": 2205.5
+  },
+  {
+    "date_transaction": "2019-01-07",
+    "lib1": "AMAZON EU SARL PAYLI2090401",
+    "debit": 759,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-07",
+    "lib1": "UNT BORDEAUX 120-126 QUAI DE /INV/20190104 C/C05P19004120611",
+    "debit": "",
+    "credit": 30936
+  },
+  {
+    "date_transaction": "2019-01-07",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 549.23,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-17",
+    "lib1": "VIR GPE14 487 556",
+    "debit": -431.48,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-18",
+    "lib1": "CARTE X5952 16/01 BASILIC VILLETT",
+    "debit": -74,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-20",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 561.84,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-21",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 279.9,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-22",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 282,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-23",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 500,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-24",
+    "lib1": "REM CHQ REF10290R07",
+    "debit": "",
+    "credit": 108
+  },
+  {
+    "date_transaction": "2019-01-24",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 254.05,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-28",
+    "lib1": "000001 VIR EUROPEEN EMIS   NET POUR: M. ZAHIR HAMROUNE REF: 9902867015330 REMISE: loyer MOTIF: loyer",
+    "debit": -4800,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-29",
+    "lib1": "REM CHQ REF10290R07",
+    "debit": "",
+    "credit": 2620.8
+  },
+  {
+    "date_transaction": "2019-01-30",
+    "lib1": "CARTE X5952 29/01 INFOGREFFE CB COMMERCE ELECTRONIQUE",
+    "debit": -10.56,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-30",
+    "lib1": "CARTE X5952 29/01 INFOGREFFE CB COMMERCE ELECTRONIQUE",
+    "debit": -3.53,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-31",
+    "lib1": "RELEVE CARTE 22124388",
+    "debit": -3144.32,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-31",
+    "lib1": "RELEVE CARTE 23697515",
+    "debit": -1028.18,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-01-31",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535 Avoir",
+    "debit": "",
+    "credit": 10.99
+  },
+  {
+    "date_transaction": "2019-02-04",
+    "lib1": "OVH ROUBAIX",
+    "debit": 44.38,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-02-08",
+    "lib1": "FRAIS D'ETUDE CTC FRAIS D'ETUDE CTC",
+    "debit": -100,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-02-11",
+    "lib1": "VIR DOOR INTERNATIONAL BV 30066-12-19042355028876 IBM VM INV: INV-1260 INT 2018 1529",
+    "debit": "",
+    "credit": 4800
+  },
+  {
+    "date_transaction": "2019-02-12",
+    "lib1": "VIR AGENCE NALE POUR LA FORM , .INV-1205 AFPA 24 AFPA SIA.GE SOCIAL",
+    "debit": "",
+    "credit": 5280
+  },
+  {
+    "date_transaction": "2019-02-15",
+    "lib1": "REM CHQ REF10290R07",
+    "debit": "",
+    "credit": 8.67
+  },
+  {
+    "date_transaction": "2019-02-19",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 16.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-02-19",
+    "lib1": "VIR AGENCE NALE POUR LA FORM , .INV-1211 AFPA 24 AFPA SIA.GE SOCIAL",
+    "debit": "",
+    "credit": 11880
+  },
+  {
+    "date_transaction": "2019-02-19",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 19.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-02-22",
+    "lib1": "AMAZON EU SARL PAYLI2090401",
+    "debit": 29.9,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-02-28",
+    "lib1": "RELEVE CARTE 22124388",
+    "debit": -3548.01,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-02-28",
+    "lib1": "RELEVE CARTE 23697515",
+    "debit": -2659.9,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-02-28",
+    "lib1": "CARTE X5952 REMBT 06/02 CONFORAMA COMMERCE ELECTRONIQUE",
+    "debit": "",
+    "credit": 199.99
+  },
+  {
+    "date_transaction": "2019-03-01",
+    "lib1": "NESSIDA ROISSY EN FR",
+    "debit": 107.6,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-01",
+    "lib1": "CARTE X5952 28/02 G7",
+    "debit": -18.2,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-03",
+    "lib1": "OVH ROUBAIX",
+    "debit": 68.36,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-04",
+    "lib1": "OVH ROUBAIX",
+    "debit": 54.1,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-05",
+    "lib1": "VIR AGENCE NALE POUR LA FORM , INV-1121 - RA.GUL RAPPRO A TORT, AFPA 24 AFPA SIA.GE SOCIAL",
+    "debit": "",
+    "credit": 23100
+  },
+  {
+    "date_transaction": "2019-03-06",
+    "lib1": "LE PHOENICIEN PARIS",
+    "debit": 38,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-08",
+    "lib1": "LE PALINURO PARIS",
+    "debit": 50,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-11",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 7.83,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-11",
+    "lib1": "CARTE X5952 REMBT 09/03 AMAZON PAYMENTS COMMERCE ELECTRONIQUE",
+    "debit": "",
+    "credit": 9.4
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 155.98,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "CHEQUE     121",
+    "debit": -103.7,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 69.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 335.96,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 248.87,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 159.98,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 304,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 75.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON EU SARL PAYLI2090401",
+    "debit": 473.9,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 52.91,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 309.95,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 69.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 57,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 52.91,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 57,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 702.89,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 159.98,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-14",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 153.98,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-15",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 127.5,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-18",
+    "lib1": "CARTE X5952 REMBT 15/03 CDISCOUNT COMMERCE ELECTRONIQUE",
+    "debit": "",
+    "credit": 1175.94
+  },
+  {
+    "date_transaction": "2019-03-19",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535/",
+    "debit": -244.95,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-19",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535/",
+    "debit": -77.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-19",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535/",
+    "debit": -335.96,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-19",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535",
+    "debit": 155.98,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-19",
+    "lib1": "VIR AGENCE NALE POUR LA FORM , FC190004 AFPA 24 AFPA SIA.GE SOCIAL",
+    "debit": "",
+    "credit": 5280
+  },
+  {
+    "date_transaction": "2019-03-20",
+    "lib1": "VIR SIE 9EME EST 120750560DAA852-2019 REMB. DE CVAE - CVAE 2017 REMB JEI",
+    "debit": "",
+    "credit": 10812
+  },
+  {
+    "date_transaction": "2019-03-26",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535/",
+    "debit": 83.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-26",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535/",
+    "debit": 251.97,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-27",
+    "lib1": "REJET CHEQUE 2164712",
+    "debit": "",
+    "credit": 6049.2
+  },
+  {
+    "date_transaction": "2019-03-29",
+    "lib1": "RELEVE CARTE 23697515",
+    "debit": -1614.36,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-03-29",
+    "lib1": "RELEVE CARTE 22124388",
+    "debit": -5306.96,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-01",
+    "lib1": "PRELEVEMENT EUROPEEN 8807253734 DE: BOUYGUES TELECOM ID: FR35ZZZ418323 REF: PAGP0100JYF82O MANDAT BT08501RSJ815",
+    "debit": -24.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-01",
+    "lib1": "CARTE X5952 29/03 EL KAHINA",
+    "debit": -25,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-01",
+    "lib1": "VOTRE REMISE VIREMENT DU 290319 VIREMENTS SALAIRES",
+    "debit": -114847.01,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-02",
+    "lib1": "CARTE X5952 01/04 SARL KPC",
+    "debit": -21,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-02",
+    "lib1": "OVH ROUBAIX",
+    "debit": -68.36,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-03",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535/",
+    "debit": -738,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-03",
+    "lib1": "VIR RECU    0384073311S DE: MALTEM MOTIF: VIRT FACT BNP-2019-01 REF: SAU",
+    "debit": "",
+    "credit": 12055
+  },
+  {
+    "date_transaction": "2019-04-03",
+    "lib1": "CIONS TENUE DE COMPTE AU 31/03/19 : -CION MOUVEMENT EUR        4,68 AU DELA DU SEUIL JAZZ PRO",
+    "debit": -4.68,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-04",
+    "lib1": "VIR RECU    0389304339S DE: MALTEM MOTIF: VIRT FACT BNP-2019-02 REF: SAU",
+    "debit": "",
+    "credit": 24508
+  },
+  {
+    "date_transaction": "2019-04-04",
+    "lib1": "VIR BIRD OFFICE PARTCOM 4211277-MAR-2019",
+    "debit": "",
+    "credit": 445.2
+  },
+  {
+    "date_transaction": "2019-04-04",
+    "lib1": "000001 VIR EUROPEEN EMIS   NET POUR: BTP INNOVATION REF: 9909481367677 REMISE: TARVAUX DE RENOVATION DES BUREAUX MOTIF: TARVAUX DE RENOVATION DES BUREAUX",
+    "debit": -6996,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-05",
+    "lib1": "VIR RECU    0583527259S DE: SOGECAP MOTIF: PROMO PREV 0204199599 REF: PROMO PREV 0204199599 ID: SSI",
+    "debit": "",
+    "credit": 12.11
+  },
+  {
+    "date_transaction": "2019-04-05",
+    "lib1": "VIR MAAF ASSURANCES SA 0109201901509539 VIRT 11 MAAF ASSU SINB2605373 SIN 0510.2017-MAAF SA",
+    "debit": "",
+    "credit": 219.11
+  },
+  {
+    "date_transaction": "2019-04-05",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535/",
+    "debit": 107.02,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-09",
+    "lib1": "CARREFOUR CHAMPS CHAMPS SUR MAR",
+    "debit": -24.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-09",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535/",
+    "debit": -1098,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-09",
+    "lib1": "000001 VIR EUROPEEN EMIS   NET POUR: COMET SAS REF: 9909982649270 REMISE: REMBOURSEMENT DU VIREMT 04-06-2018 MOTIF: REMBOURSEMENT DU VIREMT 04-06-2018",
+    "debit": -8640,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-09",
+    "lib1": "CARTE X5952 08/04 AMAZON PAYMENTS COMMERCE ELECTRONIQUE",
+    "debit": -76.3,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-10",
+    "lib1": "CARTE X5952 09/04 MOJITO'S AND MO",
+    "debit": -32,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-10",
+    "lib1": "VIR RECU    1087027120S DE: MONTREAL ASSOCIATES(SYSTEMS)SL MONTREA L ASSOCIATES(SYST) SL MOTIF: BIG APPS REF: SE000040/6",
+    "debit": "",
+    "credit": 11130
+  },
+  {
+    "date_transaction": "2019-04-10",
+    "lib1": "CARTE X5952 09/04 OVH COMMERCE ELECTRONIQUE",
+    "debit": -86.26,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-11",
+    "lib1": "VIR RECU    1182133219S DE: Google Ireland Limited MOTIF: GG101S05UE REF: GG101S05UE PROVENANCE: IE Irlande",
+    "debit": "",
+    "credit": 0.3
+  },
+  {
+    "date_transaction": "2019-04-12",
+    "lib1": "LE GOU THE PARIS",
+    "debit": -68.9,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-15",
+    "lib1": "CARTE X5952 13/04 BOUTIQUE ORANGE",
+    "debit": -449.9,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-16",
+    "lib1": "PRELEVEMENT EUROPEEN 1508783007 DE: Urssaf Ile-de-France (117) ID: FR86ZZZ112534 MOTIF: UR 117000001557478698    MARS197886 1,78E+13",
+    "debit": -3642,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-16",
+    "lib1": "FREBE AUTO PARIS",
+    "debit": -69,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-16",
+    "lib1": "CARTE X5952 15/04 NESPRESSO FRANC COMMERCE ELECTRONIQUE",
+    "debit": -105,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-16",
+    "lib1": "CARTE X5952 13/04 JetBrains 199,00 EUR REPUBLIQUE TCHEQ COMMERCE ELECTRONIQUE",
+    "debit": -199,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-17",
+    "lib1": "CARTE X5952 15/04 AMAZON PAYMENTS COMMERCE ELECTRONIQUE",
+    "debit": -999.96,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-17",
+    "lib1": "REM CHQ REF10290A04",
+    "debit": "",
+    "credit": 180
+  },
+  {
+    "date_transaction": "2019-04-17",
+    "lib1": "CARTE X5952 15/04 AMAZON PAYMENTS COMMERCE ELECTRONIQUE",
+    "debit": -21.98,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-18",
+    "lib1": "AMAZON PAYMENTS PAYLI2441535/",
+    "debit": 127.5,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-19",
+    "lib1": "VIR FNAC PRO",
+    "debit": -24964.56,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-19",
+    "lib1": "COTIS JAZZPRO REDUC JAZZ-20% MONTANT NT  :    22,15 EUR MONTANT HT  :     8,25 EUR TVA A 20,00%:     1,65 EUR",
+    "debit": -32.05,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-23",
+    "lib1": "CARTE X5952 20/04 CARREF AULNAY",
+    "debit": -23.68,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-23",
+    "lib1": "CARTE X5952 19/04 LA POSTE L930480",
+    "debit": -36.83,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-24",
+    "lib1": "PRLV EUROPEEN B2B    1900557313 POUR CPTE DE:DGFIP IMPOT ID: FR46ZZZ005002 MOTIF: PASDSN15042019-032019-8023774570001 4",
+    "debit": -217,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-24",
+    "lib1": "PRLV SEPA DGFIP 3207505600VLZ8TO6XD10ZB2XQ1X1C2UH1 PASDSN15042019-032019-80532165000030",
+    "debit": -7709,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-25",
+    "lib1": "PRELEVEMENT EUROPEEN 2402889810 DE: HUMANIS ID: FR16ZZZ633229 MOTIF: RETRAITE - HUMANIS - 201901T - SIRE T 80237745700014 -AG081000006479498",
+    "debit": -1245.73,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-25",
+    "lib1": "PRELEVEMENT EUROPEEN 2402889792 DE: HUMANIS ID: FR16ZZZ633229 MOTIF: RETRAITE - HUMANIS - 201901T - SIRE T 80237745700014 -AG081000006008997",
+    "debit": -1045.9,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-25",
+    "lib1": "PRELEVEMENT EUROPEEN 2402889801 DE: HUMANIS ID: FR16ZZZ633229 MOTIF: RETRAITE - HUMANIS - 201901T - SIRE T 80237745700014 -AG081000006176205",
+    "debit": -1032.79,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-29",
+    "lib1": "CARTE X5952 REMBT 27/04 Action 4051",
+    "debit": "",
+    "credit": 24.12
+  },
+  {
+    "date_transaction": "2019-04-29",
+    "lib1": "CARTE X5952 27/04 Action 4051",
+    "debit": -24.12,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-29",
+    "lib1": "CARTE X5952 27/04 CARREFOUR TPE",
+    "debit": -30.52,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-29",
+    "lib1": "VIR EUROPEEN EMIS MOTIF: SALAIRE Avril 2019",
+    "debit": -9887.75,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-29",
+    "lib1": "CARTE X5952 27/04 Action 4051",
+    "debit": -24.12,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-30",
+    "lib1": "RELEVE CARTE 22124388",
+    "debit": -4131.69,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-30",
+    "lib1": "VOTRE REMISE VIREMENT DU 300419 VIREMENTS SALAIRES",
+    "debit": -121975.89,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-30",
+    "lib1": "VOTRE REMISE VIREMENT DU 300419 VIREMENTS SALAIRES",
+    "debit": -121975.89,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-30",
+    "lib1": "RELEVE CARTE 23697515",
+    "debit": -1983.91,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-30",
+    "lib1": "PRELEVEMENT EUROPEEN 2906749610 DE: BOUYGUES TELECOM ID: FR35ZZZ418323 REF: PAGP0100K5J8ZR MANDAT BTAW0J340IG93",
+    "debit": -28.14,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-30",
+    "lib1": "RELEVE CARTE 22124388",
+    "debit": -4131.69,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-04-30",
+    "lib1": "RELEVE CARTE 23697515",
+    "debit": -1983.91,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-02",
+    "lib1": "CARTE X5952 30/04 CARREFOUR ROSNY",
+    "debit": -203.55,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-02",
+    "lib1": "CARTE X5952 30/04 CARREFOUR DAC",
+    "debit": -20.03,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-02",
+    "lib1": "CARTE X5952 01/05 GOOGLE *CLOUD_0130AA-6 0,34 EUR IRLANDE COMMERCE ELECTRONIQUE",
+    "debit": -0.34,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-02",
+    "lib1": "CARTE X5952 30/04 CARREFOUR CLAYE",
+    "debit": -249.9,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-03",
+    "lib1": "PRLV SEPA DGFIP 220750560700071451577 CVAE-052019-1329DEF",
+    "debit": -13676,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-03",
+    "lib1": "CARTE X5952 02/05 CARREF AULNAY",
+    "debit": -179.79,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-03",
+    "lib1": "CIONS TENUE DE COMPTE AU 30/04/19 : -CION MOUVEMENT EUR       51,44 AU DELA DU SEUIL JAZZ PRO",
+    "debit": -51.44,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-03",
+    "lib1": "CHEQUE     112",
+    "debit": -121.6,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-03",
+    "lib1": "CARTE X5952 02/05 GOOGLE*GSUITE BIGAPPS. 15,07 EUR IRLANDE COMMERCE ELECTRONIQUE",
+    "debit": -15.07,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-06",
+    "lib1": "VIR SIE 9EME EST 120750560DAB496-2019 REMB. EXCEDENT D IS - 20180101-20181231/805321650",
+    "debit": "",
+    "credit": 62442
+  },
+  {
+    "date_transaction": "2019-05-06",
+    "lib1": "VIR SIE 9EME EST 120750560DAB497-2019 REMB. CREANCES IS - FAM/2018/805321650",
+    "debit": "",
+    "credit": 11585
+  },
+  {
+    "date_transaction": "2019-05-06",
+    "lib1": "CARTE X5952 03/05 AMEL",
+    "debit": -10,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-06",
+    "lib1": "CARTE X5952 03/05 KLM BOULANGERIE",
+    "debit": -54.4,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-06",
+    "lib1": "CARTE X5952 03/05 CARREF AULNAY",
+    "debit": -51.74,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-06",
+    "lib1": "PRELEVEMENT EUROPEEN 3311906519 DE: NIT ENCAISSEMENTS ID: FR91ZZZ194409 MOTIF: Societe:TITRES DE SERVICES/Factures :1910182121/03713/D.Emission:2019-0",
+    "debit": -1311.48,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-07",
+    "lib1": "CARTE X5952 06/05 AUCHAN BAGNOLET",
+    "debit": -79.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-07",
+    "lib1": "000001 VIR EUROPEEN EMIS   NET POUR: ADBI REF: 9912789570123 REMISE: Reglement de Prestation Mars 2019 MOTIF: Reglement de Prestation Mars 2019",
+    "debit": -7020,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-07",
+    "lib1": "000001 VIR EUROPEEN EMIS   NET POUR: ADBI REF: 9912789571186 REMISE: Sous-location Bagnolet Mars-2019 MOTIF: Sous-location Bagnolet Mars-2019",
+    "debit": -2052.75,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-07",
+    "lib1": "CARTE X5952 03/05 AMAZON PAYMENTS COMMERCE ELECTRONIQUE",
+    "debit": -233.9,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-08",
+    "lib1": "VIR RECU    3880130754S DE: MALTEM MOTIF: virt fact bnp-2019-01-rel/BNP-2019- 01-SUI REF: SAU",
+    "debit": "",
+    "credit": 13778.6
+  },
+  {
+    "date_transaction": "2019-05-09",
+    "lib1": "VIR BIG APPS 032019127895701230000001 REGLEMENT DE PRESTATION MARS 2019",
+    "debit": "",
+    "credit": 7020
+  },
+  {
+    "date_transaction": "2019-05-09",
+    "lib1": "VIR BIG APPS 032019127895711860000001 SOUS-LOCATION BAGNOLET MARS-2019",
+    "debit": "",
+    "credit": 2052.75
+  },
+  {
+    "date_transaction": "2019-05-10",
+    "lib1": "000001 VIR EUROPEEN EMIS   NET POUR: SARL CABINET D EXPERTISE COMPTABLE D ES 7 CHEMINS REF: 9913090374170 REMISE: Reglements divres factures",
+    "debit": -5221.5,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-13",
+    "lib1": "CARTE X5952 11/05 MAISONS DU MONDE",
+    "debit": -858,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-13",
+    "lib1": "CARTE X5952 10/05 AMAZON PAYMENTS COMMERCE ELECTRONIQUE",
+    "debit": -53.73,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-15",
+    "lib1": "CARTE X5952 14/05 MAISONS DU MONDE",
+    "debit": -1258.87,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-16",
+    "lib1": "PRELEVEMENT EUROPEEN 4508494732 DE: Urssaf Ile-de-France (117) ID: FR86ZZZ112534 MOTIF: UR 117000001557478698    AVR 197886 1,78E+13",
+    "debit": -3696,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-16",
+    "lib1": "CARTE X5952 14/05 AMAZON PAYMENTS COMMERCE ELECTRONIQUE",
+    "debit": -7.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-17",
+    "lib1": "VIR RECU    4786576441S DE: MONTREAL ASSOCIATES(SYSTEMS)SL MONTREA L ASSOCIATES(SYST) SL MOTIF: BIG APPS REF: SE000057/3",
+    "debit": "",
+    "credit": 11130
+  },
+  {
+    "date_transaction": "2019-05-17",
+    "lib1": "VIR MBA INSTITUTE ECOLE SONIA B",
+    "debit": -440.74,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-17",
+    "lib1": "CARTE X5952 15/05 ATLASSIAN 18,00 USD PAYS-BAS 1 EUR=1,1173 USD COMMERCE ELECTRONIQUE",
+    "debit": -16.11,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-17",
+    "lib1": "CARTE X5952 REMBT 16/05 AMAZON PAYMENTS COMMERCE ELECTRONIQUE",
+    "debit": "",
+    "credit": 7.98
+  },
+  {
+    "date_transaction": "2019-05-18",
+    "lib1": "FRAIS PAIEMENT HORS ZONE EURO CARTE X5952 15/05 18,00 USD PAYS-BAS",
+    "debit": -1.43,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-20",
+    "lib1": "CHEQUE     113",
+    "debit": -230.56,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-20",
+    "lib1": "PRLV SEPA CIPAV REF00000000000000000000000000030393",
+    "debit": -838,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-20",
+    "lib1": "CARTE X5952 17/05 AUCHAN BAGNOLET",
+    "debit": -1008,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-21",
+    "lib1": "COTIS JAZZPRO REDUC JAZZ-20% MONTANT NT  :    22,15 EUR MONTANT HT  :     8,25 EUR TVA A 20,00%:     1,65 EUR",
+    "debit": -32.05,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-22",
+    "lib1": "PRLV EUROPEEN B2B    5101036869 POUR CPTE DE:DGFIP IMPOT ID: FR46ZZZ005002 MOTIF: PASDSN15052019-042019-8023774570001 4",
+    "debit": -217,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-22",
+    "lib1": "CARTE X5952 20/05 AMAZON PAYMENTS COMMERCE ELECTRONIQUE",
+    "debit": -29.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-22",
+    "lib1": "CARTE X5952 20/05 AMAZON EU SARL COMMERCE ELECTRONIQUE",
+    "debit": -120.5,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-22",
+    "lib1": "VIR FNAC PRO",
+    "debit": -2858.02,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-22",
+    "lib1": "PRLV SEPA DGFIP 3207505603C81GE4J6CEKF3QIK0XWA3Q26 PASDSN15052019-042019-80532165000030",
+    "debit": -8536,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-23",
+    "lib1": "VIR NETNEXT-IT FC 12 & 13",
+    "debit": -17400,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-24",
+    "lib1": "PRLV EUROP PONCTUEL  4609234897 DE: AXA ID: FR14ZZZ391832 MOTIF: I0000385556009-NUMERO D APPEL000000 705405",
+    "debit": -246,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-24",
+    "lib1": "PRLV EUROP PONCTUEL  4609234888 DE: AXA ID: FR14ZZZ391832 MOTIF: I0000385556010-NUMERO D APPEL000000 705406",
+    "debit": -99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-24",
+    "lib1": "PRLV EUROP PONCTUEL  4609234915 DE: AXA ID: FR14ZZZ391832 MOTIF: I0000385556004-NUMERO D APPEL000000 982362",
+    "debit": -438.42,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-24",
+    "lib1": "PRLV EUROP PONCTUEL  4609234906 DE: AXA ID: FR14ZZZ391832 MOTIF: I0000385556005-NUMERO D APPEL000000 893062",
+    "debit": -1128,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-27",
+    "lib1": "CARTE X5952 25/05 CARREF AULNAY",
+    "debit": -63.74,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-28",
+    "lib1": "CARTE X5952 27/05 BP BONDY",
+    "debit": -10,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-30",
+    "lib1": "VOTRE REMISE VIREMENT DU 290519 VIREMENTS SALAIRES",
+    "debit": -132603.96,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-31",
+    "lib1": "RELEVE CARTE 23697515",
+    "debit": -671.74,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-31",
+    "lib1": "PRELEVEMENT EUROPEEN 5907359534 DE: BOUYGUES TELECOM ID: FR35ZZZ418323 REF: PAGP0100KCPXL3 MANDAT BTAW0J340IG93",
+    "debit": -24.99,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-31",
+    "lib1": "000008 VIR EUROPEEN EMIS   TRANS_ELEC REMISE:BIGAPP/30003.03800/190524/1 REF: 914435596926",
+    "debit": -10126.13,
+    "credit": ""
+  },
+  {
+    "date_transaction": "2019-05-31",
+    "lib1": "RELEVE CARTE 22124388",
+    "debit": -4174.03,
+    "credit": ""
+  }
+]
