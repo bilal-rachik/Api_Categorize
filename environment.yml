@@ -7,7 +7,6 @@ dependencies:
   - flask
   - pandas
   - scikit-learn
-  - nltk
   - pip:
       - mlflow
 
