@@ -17,5 +17,15 @@ http://127.0.0.1:6060/api/categorize
 http://35.180.242.51:80/api/categorize
 
 
+scp -r -p Api_Categorize centos@52.47.151.30:/home/centos/rachik
+
+scp -i /hadoop-hdp.pem /home/centos/rachik/Api_Categorize ec2-user@35.180.227.49:/home/ec2-user/Bilal
+
+
+
+
+
+
+
 
 

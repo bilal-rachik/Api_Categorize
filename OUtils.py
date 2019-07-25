@@ -1,7 +1,5 @@
 from sklearn.base import BaseEstimator, TransformerMixin
-import pandas as pd
-import nltk
-from scipy.sparse import csr_matrix
+#import nltk
 import numpy as np
 from sklearn.preprocessing import LabelBinarizer
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -9,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline 
 from sklearn.pipeline import FeatureUnion
 from sklearn.ensemble import RandomForestClassifier
-nltk.download("all")
+#nltk.download("all")
 def typecolumns(df):
     df.debit[df.debit==""]=np.NaN
     df.credit[df.credit==""]=np.NaN

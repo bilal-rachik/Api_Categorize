@@ -6,7 +6,6 @@ ADD . /
 
 RUN conda env create -f environment.yml
 
-
 # Pull the environment name out of the environment.yml
 RUN echo "source activate py36" > ~/.bashrc
 
