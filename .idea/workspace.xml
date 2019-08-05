@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="360b1c1f-225c-42a4-aa6d-0cf582e4fefd" name="Default Changelist" comment="" />
+    <list default="true" id="360b1c1f-225c-42a4-aa6d-0cf582e4fefd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OUtils.py" beforeDir="false" afterPath="$PROJECT_DIR$/OUtils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/lucene_stopwords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/environment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/artifacts/k_models/MLmodel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/artifacts/k_models/conda.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/artifacts/k_models/model.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/meta.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/metrics/accuracy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/metrics/f1Score" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/params/C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/params/class_weight" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/params/max_iter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/tags/mlflow.source.git.commit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/tags/mlflow.source.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/tags/mlflow.source.type" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/53d1f1d273fa4187830c3cde361a2e7f/tags/mlflow.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/artifacts/k_models/MLmodel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/artifacts/k_models/conda.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/artifacts/k_models/model.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/meta.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/metrics/accuracy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/metrics/f1Score" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/params/C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/params/class_weight" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/params/max_iter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/tags/mlflow.source.git.commit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/tags/mlflow.source.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/tags/mlflow.source.type" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/cc49a312b5b94703b3447e4a2ab7e8f9/tags/mlflow.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/artifacts/k_models/MLmodel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/artifacts/k_models/conda.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/artifacts/k_models/model.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/meta.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/metrics/accuracy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/metrics/f1Score" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/params/C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/params/class_weight" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/params/max_iter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/tags/mlflow.source.git.commit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/tags/mlflow.source.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/tags/mlflow.source.type" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlruns/0/f32a283934054888b4760ffd4afb3245/tags/mlflow.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/start" beforeDir="false" afterPath="$PROJECT_DIR$/start" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,22 +61,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api_predict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="513">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
               <folding>
                 <element signature="e#1#20#0" expanded="true" />
               </folding>
@@ -34,37 +72,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/start">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" column="2" selection-start-line="19" selection-end-line="19" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OUtils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="729">
+              <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/environment.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
@@ -74,10 +103,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/environment.yml">
+        <entry file="file://$PROJECT_DIR$/data/operation bancaire.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="729">
+              <caret line="27" column="70" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/csvjson.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28971">
+              <caret line="1073" column="12" selection-end-line="1075" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="378">
+                <caret line="14" selection-start-line="14" selection-end-line="14" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -91,28 +141,28 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>read_data</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/environment.yml" />
+        <option value="$PROJECT_DIR$/.ipynb_checkpoints/test.py" />
+        <option value="$PROJECT_DIR$/api.py" />
         <option value="$PROJECT_DIR$/start" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/data/operation bancaire.csv" />
         <option value="$PROJECT_DIR$/api_predict.py" />
         <option value="$PROJECT_DIR$/train.py" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/OUtils.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Api_Categorize.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/environment.yml" />
+        <option value="$PROJECT_DIR$/api_train.py" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
@@ -126,24 +176,11 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Api_Categorize" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Api_Categorize" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CEP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../catego" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -158,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.api_predict">
+  <component name="RunManager" selected="Python.api_train">
     <configuration name="api_predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Api_Categorize" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,6 +209,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Api_Categorize" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,8 +261,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.api_predict" />
+        <item itemvalue="Python.api_train" />
         <item itemvalue="Python.train" />
+        <item itemvalue="Python.api_predict" />
       </list>
     </recent_temporary>
   </component>
@@ -223,50 +282,134 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09234973" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16994536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/train.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16994536" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/info.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fouad.py">
+    <entry file="file://$PROJECT_DIR$/info.py" />
+    <entry file="file://$PROJECT_DIR$/fouad.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/py36/lib/python3.6/site-packages/mlflow/sklearn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3160">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="515">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#445#483#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api.py">
+    <entry file="file://$USER_HOME$/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/preprocessing/label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="285" column="6" selection-start-line="285" selection-start-column="6" selection-end-line="285" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="130" column="6" selection-start-line="130" selection-start-column="6" selection-end-line="130" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="98" column="31" lean-forward="true" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/csvjson.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28971">
+          <caret line="1073" column="12" selection-end-line="1075" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="378">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
@@ -276,37 +419,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/environment.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api_predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="513">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding>
             <element signature="e#1#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OUtils.py">
+    <entry file="file://$PROJECT_DIR$/data/operation bancaire.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="729">
+          <caret line="27" column="70" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
         </state>
       </provider>
     </entry>
@@ -314,13 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/start">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="2" selection-start-line="19" selection-end-line="19" selection-end-column="64" />
         </state>
       </provider>
     </entry>
